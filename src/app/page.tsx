@@ -13,10 +13,9 @@ const videoPortraitDark = "/homeimage/portrait/dynamic-portrait-dark.mp4";
 
 // 根据主题选择图片的函数
 const getThemedImage = (baseName: string) => {
-  const appName = baseName.split('-')[0]; // 提取应用名称 (pictune 或 tohdr)
   return {
-    light: `/homeimage/${appName}/${baseName}-light.png`,
-    dark: `/homeimage/${appName}/${baseName}-dark.png`
+    light: `/homeimage/${baseName}.png`,
+    dark: `/homeimage/${baseName}.png`
   };
 };
 
@@ -31,6 +30,7 @@ const getThemedAppImage = (baseName: string, locale: string) => {
 };
 
 // App Store 链接
+const bianbianUrl = ""
 const picTuneAppStoreUrl = "https://apps.apple.com/cn/app/pictune-%E9%9F%B3%E4%B9%90%E5%AE%9E%E5%86%B5%E7%85%A7%E7%89%87/id6744852198?itscg=30200&itsct=apps_box_badge&mttnsubad=6744852198";
 const toHDRAppStoreUrl = "https://apps.apple.com/cn/app/tohdr/id6746218392?itscg=30200&itsct=apps_box_badge&mttnsubad=6746218392";
 
@@ -39,7 +39,7 @@ export default function Home() {
 
   // 应用图片资源 - 根据当前语言动态生成
   const picTuneImages = {
-    icon: getThemedImage('pictune-icon'),
+    icon: getThemedImage('bianbian'),
     app: getThemedAppImage('pictune-app', locale)
   };
 
@@ -76,16 +76,16 @@ export default function Home() {
               <div className="body-text w-full preserve-whitespace" style={{ color: 'var(--label-primary)' }}>
                 {translations.formerPM}
               </div>
-              <div className="body-text w-full preserve-whitespace" style={{ color: 'var(--label-primary)' }}>
+              {/* <div className="body-text w-full preserve-whitespace" style={{ color: 'var(--label-primary)' }}>
                 {translations.education}
-              </div>
+              </div> */}
             </div>
             
             {/* Links */}
             <div className="flex flex-col gap-1.5 items-center md:items-start justify-start w-full">
               <div className="body-text w-full" style={{ color: 'var(--label-secondary)' }}>
                 <a 
-                  href="https://www.google.com/maps?q=22.5429,114.0596" 
+                  href="https://www.google.com/maps?q=23.433876, 116.218361" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="hover:underline"
@@ -96,7 +96,7 @@ export default function Home() {
                 <ExternalLinkIcon />
               </div>
               <div className="body-text w-full" style={{ color: 'var(--label-secondary)' }}>
-                <a href="mailto:jerrycode@126.com" className="hover:underline">jerrycode@126.com</a>
+                <a href="mailto:1551887484@qq.com" className="hover:underline">1551887484@qq.com</a>
                 <ExternalLinkIcon />
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function Home() {
             {/* PicTune App Card */}
             <AppCard
               appIcon={picTuneImages.icon}
-              appName="PicTune"
+              appName={translations.bianbianName}
               appDescription={translations.pictuneDescription}
               appDetail={
                 <>
@@ -124,18 +124,18 @@ export default function Home() {
                 </>
               }
               appImage={picTuneImages.app}
-              appStoreUrl={picTuneAppStoreUrl}
+              appStoreUrl={bianbianUrl}
             />
             
             {/* toHDR App Card */}
-            <AppCard
+            {/* <AppCard
               appIcon={toHDRImages.icon}
               appName="toHDR"
               appDescription={translations.tohdrDescription}
               appDetail={translations.tohdrDetail}
               appImage={toHDRImages.app}
               appStoreUrl={toHDRAppStoreUrl}
-            />
+            /> */}
           </div>
         </div>
         
@@ -156,7 +156,7 @@ export default function Home() {
                 className="hover:underline"
                 style={{ color: 'var(--label-secondary)' }}
               >
-                粤ICP备2025409264号
+                粤ICP备2024176646号
               </a>
             </div>
             

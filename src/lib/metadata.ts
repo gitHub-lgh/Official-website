@@ -9,14 +9,14 @@ interface MetadataTranslations {
 
 const metadataTranslations: Record<Locale, MetadataTranslations> = {
   en: {
-    title: 'JerryCode',
+    title: 'HongCode',
     description: 'An independent developer focused on Swift ecosystem',
-    keywords: ['Swift', 'iOS', 'macOS', 'Independent Development', 'JerryCode', 'Mobile Apps', 'App Development'],
+    keywords: ['Swift', 'iOS', 'macOS', 'Independent Development', 'HongCode', 'Mobile Apps', 'App Development'],
   },
   zh: {
-    title: 'JerryCode',
+    title: 'HongCode',
     description: '专注于 Swift 生态的独立开发者',
-    keywords: ['Swift', 'iOS', 'macOS', '独立开发', 'JerryCode', '移动应用', '应用开发'],
+    keywords: ['Swift', 'iOS', 'macOS', '独立开发', 'HongCode', '移动应用', '应用开发'],
   },
 };
 
@@ -27,9 +27,9 @@ export function generateMetadata(locale: Locale = 'en'): Metadata {
     title: translations.title,
     description: translations.description,
     keywords: translations.keywords,
-    authors: [{ name: 'JerryCode' }],
-    creator: 'JerryCode',
-    publisher: 'JerryCode',
+    authors: [{ name: 'HongCode' }],
+    creator: 'HongCode',
+    publisher: 'HongCode',
     metadataBase: new URL('https://jerrycode.fun'),
     openGraph: {
       title: translations.title,

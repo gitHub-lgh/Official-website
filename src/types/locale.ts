@@ -14,6 +14,7 @@ export interface Translations {
   works: string;
   
   // PicTune app
+  bianbianName: string
   pictuneDescription: string;
   pictuneDetail1: string;
   pictuneDetail2: string;
