@@ -2,7 +2,7 @@
 
 ---
 
-Poop Recorder is an innovative photo editing app that allows you to add album covers and lyrics to your photos, and export them as still images or Live Photos with dynamic lyric effects. Before you begin using our services, please carefully read this Privacy Policy to understand how we collect, use, and protect your personal information.
+Poop Recorder is a small tool for recording and analyzing feces, developing good bowel habits, and paying attention to your own intestinal health. Before you begin using our services, please carefully read this Privacy Policy to understand how we collect, use, and protect your personal information.
 
 ## Information We Collect
 
@@ -15,7 +15,7 @@ When using the Poop Recorder App, we may collect the following types of informat
 
 The information we collect will be used for the following purposes:\
 \- To provide, maintain, and improve the services of the Poop Recorder App.\
-\- To provide you with a personalized user experience, including recommending relevant song content and optimizing service features.\
+\- To provide you with a personalized user experience, optimizing service features.\
 \- To process your requests, complaints, and feedback.\
 \- To prevent fraud and abuse, and to protect user rights and security.\
 \- To comply with applicable laws, regulations, and regulatory requirements.
@@ -40,4 +40,4 @@ We reserve the right to modify this Privacy Policy at any time. If we make signi
 
 ## Contact Us
 
-If you have any questions, comments, or suggestions regarding this Privacy Policy, please contact us via email: [1551887484@qq.com](mailto:1551887484@qq.com).
+If you have any questions, comments, or suggestions regarding this Privacy Policy, please contact us via email: [lihong@hongruankeji.com](mailto:lihong@hongruankeji.com).

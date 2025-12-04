@@ -96,7 +96,7 @@ export default function Home() {
                 <ExternalLinkIcon />
               </div>
               <div className="body-text w-full" style={{ color: 'var(--label-secondary)' }}>
-                <a href="mailto:1551887484@qq.com" className="hover:underline">1551887484@qq.com</a>
+                <a href="mailto:lihong@hongruankeji.com" className="hover:underline">lihong@hongruankeji.com</a>
                 <ExternalLinkIcon />
               </div>
             </div>
