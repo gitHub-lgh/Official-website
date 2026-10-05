@@ -7,43 +7,51 @@ interface MetadataTranslations {
   keywords: string[];
 }
 
+/** Production site origin, also used to build absolute URLs for share cards. */
+const SITE_URL = 'https://lgh.hongruankeji.com';
+/** Square cover used by WeChat / iMessage / Twitter link previews. */
+const SHARE_IMAGE = `${SITE_URL}/homeimage/share/cover.png`;
+
 const metadataTranslations: Record<Locale, MetadataTranslations> = {
   en: {
-    title: 'HongCode',
-    description: 'An independent developer focused on Swift ecosystem',
-    keywords: ['Swift', 'iOS', 'macOS', 'Independent Development', 'HongCode', 'Mobile Apps', 'App Development'],
+    title: 'Hong · Independent Developer',
+    description: 'Independent developer focused on mobile products — Poop Recorder, Pixel Board, EasyChart and more.',
+    keywords: ['Independent Development', 'Mobile Apps', 'App Development', 'Kotlin', 'Swift', 'ArkTs', 'Hong'],
   },
   zh: {
-    title: 'HongCode',
-    description: '专注于 Swift 生态的独立开发者',
-    keywords: ['Swift', 'iOS', 'macOS', '独立开发', 'HongCode', '移动应用', '应用开发'],
+    title: '阿洪 · 独立开发者',
+    description: '独立开发者，专注移动端产品。已上线便便助手、Pixel像素板、易图、书影小角落、日常小记等 App。',
+    keywords: ['独立开发', '移动应用', 'App 开发', 'Kotlin', 'Swift', 'ArkTs', '阿洪'],
   },
 };
 
-export function generateMetadata(locale: Locale = 'en'): Metadata {
+export function generateMetadata(locale: Locale = 'zh'): Metadata {
   const translations = metadataTranslations[locale];
   
   return {
     title: translations.title,
     description: translations.description,
     keywords: translations.keywords,
-    authors: [{ name: 'HongCode' }],
-    creator: 'HongCode',
-    publisher: 'HongCode',
-    metadataBase: new URL('https://jerrycode.fun'),
+    authors: [{ name: '阿洪' }],
+    creator: '阿洪',
+    publisher: '阿洪',
+    metadataBase: new URL(SITE_URL),
+    alternates: {
+      canonical: SITE_URL,
+    },
     openGraph: {
       title: translations.title,
       description: translations.description,
       type: 'website',
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
-      siteName: 'JerryCode',
-      url: 'https://jerrycode.fun',
+      siteName: '阿洪',
+      url: SITE_URL,
       images: [
         {
-          url: 'https://jerrycode.fun/homeimage/portrait/portrait.png',
-          width: 400,
-          height: 400,
-          alt: 'JerryCode Logo',
+          url: SHARE_IMAGE,
+          width: 1200,
+          height: 1200,
+          alt: '阿洪 · 独立开发者',
           type: 'image/png',
         },
       ],
@@ -72,8 +80,7 @@ export function generateMetadata(locale: Locale = 'en'): Metadata {
       card: 'summary_large_image',
       title: translations.title,
       description: translations.description,
-      images: ['https://jerrycode.fun/homeimage/portrait/portrait.png'],
-      creator: '@jerrycode',
+      images: [SHARE_IMAGE],
     },
     robots: {
       index: true,

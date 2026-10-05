@@ -4,7 +4,7 @@ import { LocaleProvider } from '@/contexts/LocaleContext';
 import HtmlLangUpdater from '@/components/HtmlLangUpdater';
 import { generateMetadata } from '@/lib/metadata';
 
-export const metadata = generateMetadata('en'); // Default to English
+export const metadata = generateMetadata('zh'); // Static export carries the zh share card
 
 export const viewport: Viewport = {
   width: 'device-width',
