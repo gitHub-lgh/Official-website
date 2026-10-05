@@ -28,7 +28,7 @@ const getThemedImage = (baseName: string) => {
 
 // 根据主题和语言选择应用截图的函数
 const getThemedAppImage = (baseName: string, locale: string) => {
-  const appName = baseName.split('-')[0]; // 提取应用名称 (pictune 或 tohdr)
+  const appName = baseName.split('-')[0]; // 提取图片所在的目录名
   const langSuffix = locale === 'zh' ? '-zh' : '-en';
   return {
     light: `/homeimage/${appName}/${baseName}${langSuffix}-light.png`,
