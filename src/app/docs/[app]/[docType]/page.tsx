@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import DocumentLayout from '@/components/DocumentLayout';
 import MarkdownRenderer from '@/components/MarkdownRenderer';
-import { getDocument, getAvailableApps } from '@/lib/markdown';
+import { getDocument, getAvailableApps, getAvailableDocumentTypes } from '@/lib/markdown';
 
 interface PageProps {
   params: Promise<{
@@ -19,8 +19,8 @@ export default async function DocumentPage({ params }: PageProps) {
     notFound();
   }
 
-  // 验证文档类型是否支持
-  const supportedDocTypes = ['privacy', 'terms'];
+  // 仅允许访问该应用目录中实际存在的 Markdown 文档
+  const supportedDocTypes = getAvailableDocumentTypes(app);
   if (!supportedDocTypes.includes(docType)) {
     notFound();
   }
@@ -42,11 +42,10 @@ export default async function DocumentPage({ params }: PageProps) {
 // 生成静态页面
 export async function generateStaticParams() {
   const availableApps = getAvailableApps();
-  const supportedDocTypes = ['privacy', 'terms'];
   
   const params = [];
   for (const app of availableApps) {
-    for (const docType of supportedDocTypes) {
+    for (const docType of getAvailableDocumentTypes(app)) {
       params.push({ app, docType });
     }
   }

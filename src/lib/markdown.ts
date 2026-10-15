@@ -56,6 +56,23 @@ export function getAvailableApps(): string[] {
   }
 }
 
+export function getAvailableDocumentTypes(app: string): string[] {
+  if (!getAvailableApps().includes(app)) {
+    return [];
+  }
+
+  try {
+    const appDir = path.join(process.cwd(), 'content', 'apps', app);
+    return fs.readdirSync(appDir, { withFileTypes: true })
+      .filter(entry => entry.isFile() && entry.name.endsWith('.md'))
+      .map(entry => entry.name.slice(0, -3))
+      .sort();
+  } catch (error) {
+    console.error(`Error reading documents for ${app}:`, error);
+    return [];
+  }
+}
+
 export function getAvailablePrivacyPolicies(): string[] {
   return getAvailableApps();
 }
