@@ -1,0 +1,264 @@
+<font style="color:rgb(0, 0, 0);">更新日期：</font>**<font style="color:rgb(0, 0, 0);">2025/12/10</font>**
+
+<font style="color:rgb(0, 0, 0);">生效日期：</font>**<font style="color:rgb(0, 0, 0);">2024/5/21</font>**
+
+## <font style="color:rgb(0, 0, 0);">导言</font>
+<font style="color:rgb(0, 0, 0);">宝宝成长录 是一款由 </font>_<font style="color:rgb(0, 0, 0);">广州洪软科技有限公司（注册地址/办公地址：广州市越秀区西湖路12号西湖商业大厦第30楼自编号684号（仅限办公）；联系方式：liguihong@hongruankeji.com）</font>_<font style="color:rgb(0, 0, 0);"> （以下简称“我们”）提供的产品。 您在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过本《隐私政策》向您说明，在使用我们的服务时，我们如何收集、使用、储存和分享这些信息，以及我们为您提供的访问、更新、控制和保护这些信息的方式。 本《隐私政策》与您所使用的 宝宝成长录 服务息息相关，希望您仔细阅读，在需要时，按照本《隐私政策》的指引，作出您认为适当的选择。本《隐私政策》中涉及的相关技术词汇，我们尽量以简明扼要的表述，并提供进一步说明的链接，以便您的理解。</font>
+
+**<font style="color:rgb(0, 0, 0);">您使用或继续使用我们的服务，即意味着同意我们按照本《隐私政策》收集、使用、储存和分享您的相关信息。</font>**
+
+<font style="color:rgb(0, 0, 0);">如对本《隐私政策》或相关事宜有任何问题，请通过</font><font style="color:rgb(0, 0, 0);"> </font>**<font style="color:rgb(0, 0, 0);">liguihong@hongruankeji.com</font>**<font style="color:rgb(0, 0, 0);"> </font><font style="color:rgb(0, 0, 0);">与我们联系。</font>
+
+## <font style="color:rgb(0, 0, 0);">1. 我们收集的信息</font>
+<font style="color:rgb(0, 0, 0);">【收集信息情况】为帮您快速了解我们关于您的个人信息收集、使用的主要情况，我们以清单的方式进行了说明，如下所示：</font>
+
+**<font style="color:rgb(0, 0, 0);">1. 手机型号</font>**  
+<font style="color:rgb(0, 0, 0);">使用目的：提升软件使用体验</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：如根据手机型号展示更合理布局大小，提升使用体验</font>  
+<font style="color:rgb(0, 0, 0);">举例：MIX 3、Pixel 6</font>  
+  
+**<font style="color:rgb(0, 0, 0);">2. 系统版本</font>**  
+<font style="color:rgb(0, 0, 0);">使用目的：提升软件使用体验</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：如根据系统版本展示该版本才支持的功能，提升使用体验</font>  
+<font style="color:rgb(0, 0, 0);">举例：XiaoMi/MIUI Android 10、google/crosshatch Android 12</font>  
+  
+**<font style="color:rgb(0, 0, 0);">3. Android ID</font>**  
+<font style="color:rgb(0, 0, 0);">使用目的：提升软件使用体验</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：用户统计需要，作为用户标识，了解当前 App 用户量</font>  
+  
+**<font style="color:rgb(0, 0, 0);">4. OAID</font>**  
+<font style="color:rgb(0, 0, 0);">使用目的：提升软件使用体验</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：用户统计需要，作为用户标识，了解当前 App 用户量</font>  
+  
+**<font style="color:rgb(0, 0, 0);">5. 宝宝成长录版本号</font>**  
+<font style="color:rgb(0, 0, 0);">使用目的：提升软件使用体验</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：如检测应用是否有新版本待升级，提升使用体验</font>  
+<font style="color:rgb(0, 0, 0);">举例：100</font>  
+
+
+<font style="color:rgb(0, 0, 0);">【权限获取情况】获取手机存储等权限，不会默认开启。只有在您触发相关业务功能时，我们才会向您申请相关权限，并获取相应信息（如涉及）。请您放心，我们申请访问的权限只限于实现特定的功能所必需，并且您可以随时撤回系统权限的授权。如您拒绝或撤回授权系统权限，会使您无法使用相应功能，但并不影响您正常使用产品与/或服务的其他功能。</font>
+
+<font style="color:rgb(0, 0, 0);">具体应用权限申请与使用情况说明如下：</font>  
+**<font style="color:rgb(0, 0, 0);">1. 读写手机存储权限</font>**  
+<font style="color:rgb(0, 0, 0);">具体权限：android.permission.READ_EXTERNAL_STORAGE、android.permission.WRITE_EXTERNAL_STORAGE；</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：提取apk、提取so文件、保存签名文件、保存apk相关文件，保存AndroidManifest.xml文件</font>  
+<font style="color:rgb(0, 0, 0);">不授权影响：具体需要保存文件或读取文件的功能点不可用，其他产品功能不受影响；</font>  
+<font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>  
+  
+**<font style="color:rgb(0, 0, 0);">2. 读取手机信息权限</font>**  
+<font style="color:rgb(0, 0, 0);">具体权限：android.permission.READ_PHONE_STATE；</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：获取手机型号等信息用于更好的定位使用中的闪退、卡顿、无响应的问题</font>  
+<font style="color:rgb(0, 0, 0);">不授权影响：产品功能不受影响；</font>  
+<font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>  
+  
+**<font style="color:rgb(0, 0, 0);">3. 网络状态及 WiFi 状态权限</font>**  
+<font style="color:rgb(0, 0, 0);">具体权限：android.permission.ACCESS_NETWORK_STATE、android.permission.ACCESS_WIFI_STATE；</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：检测用户是否具有使用高级功能的权限</font>  
+<font style="color:rgb(0, 0, 0);">不授权影响：具体需要该权限的功能点不可用，其他产品功能不受影响；</font>  
+<font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>  
+  
+**<font style="color:rgb(0, 0, 0);">4. 应用安装权限</font>**  
+<font style="color:rgb(0, 0, 0);">具体权限：android.permission.REQUEST_INSTALL_PACKAGES；</font>  
+<font style="color:rgb(0, 0, 0);">使用场景：当应用有新版本可升级，且用户选择从官网下载应用升级包，下载完成后，我们会提示申请"应用安装权限"以自动安装新版本升级包；</font>  
+<font style="color:rgb(0, 0, 0);">不授权影响：从官网下载的安装包无法自动安装升级，用户可以手动安装升级或从应用市场升级；</font>  
+<font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>
+
+<font style="color:rgb(0, 0, 0);"></font>
+
+**<font style="color:rgb(0, 0, 0);">5. 通知权限</font>**<font style="color:rgb(0, 0, 0);">  
+</font><font style="color:rgb(0, 0, 0);">具体权限：android.permission.POST_NOTIFICATIONS；  
+</font><font style="color:rgb(0, 0, 0);">使用场景：发送定时排便提醒、蹲坑计时状态、小组件一键记录结果等通知；  
+</font><font style="color:rgb(0, 0, 0);">不授权影响：收不到上述通知，其他功能不受影响；  
+</font><font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>
+
+<font style="color:rgb(0, 0, 0);"></font>
+
+**<font style="color:rgb(0, 0, 0);">6. 精确闹钟权限</font>**<font style="color:rgb(0, 0, 0);">  
+</font><font style="color:rgb(0, 0, 0);">具体权限：android.permission.SCHEDULE_EXACT_ALARM；  
+</font><font style="color:rgb(0, 0, 0);">使用场景：在您设定的时间准时触发排便提醒；  
+</font><font style="color:rgb(0, 0, 0);">不授权影响：定时提醒无法准时送达，其他功能不受影响；  
+</font><font style="color:rgb(0, 0, 0);">管理路径：关于->隐私->应用权限管理。</font>
+
+## <font style="color:rgb(0, 0, 0);">2. 信息的存储</font>
+**<font style="color:rgb(0, 0, 0);">2.1 信息存储的方式和期限</font>**
+
++ <font style="color:rgb(0, 0, 0);">我们会通过安全的方式存储您的信息，包括本地存储（例如利用APP进行数据缓存）、数据库和服务器日志。</font>
++ <font style="color:rgb(0, 0, 0);">一般情况下，我们只会在为实现服务目的所必需的时间内或法律法规规定的条件下存储您的个人信息。</font>
+
+**<font style="color:rgb(0, 0, 0);">2.2 信息存储的地域</font>**
+
++ <font style="color:rgb(0, 0, 0);">我们会按照法律法规规定，将境内收集的用户个人信息存储于中国境内。</font>
++ <font style="color:rgb(0, 0, 0);">目前我们不会跨境传输或存储您的个人信息。将来如需跨境传输或存储的，我们会向您告知信息出境的目的、接收方、安全保证措施和安全风险，并征得您的同意。</font>
+
+**<font style="color:rgb(0, 0, 0);">2.3 产品或服务停止运营时的通知</font>**
+
++ <font style="color:rgb(0, 0, 0);">当我们的产品或服务发生停止运营的情况时，我们将以推送通知、公告等形式通知您，并在合理期限内删除您的个人信息或进行匿名化处理，法律法规另有规定的除外。</font>
+
+## <font style="color:rgb(0, 0, 0);">3. 信息安全</font>
+<font style="color:rgb(0, 0, 0);">我们使用各种安全技术和程序，以防信息的丢失、不当使用、未经授权阅览或披露。例如，在某些服务中，我们将利用加密技术（例如SSL）来保护您提供的个人信息。但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。您需要了解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。</font>
+
+## <font style="color:rgb(0, 0, 0);">4. 我们如何使用信息</font>
+<font style="color:rgb(0, 0, 0);">我们可能将在向您提供服务的过程之中所收集的信息用作下列用途：</font>
+
++ <font style="color:rgb(0, 0, 0);">向您提供服务；</font>
++ <font style="color:rgb(0, 0, 0);">在我们提供服务时，用于身份验证、客户服务、安全防范、诈骗监测、存档和备份用途，确保我们向您提供的产品和服务的安全性；</font>
++ <font style="color:rgb(0, 0, 0);">帮助我们设计新服务，改善我们现有服务；</font>
++ <font style="color:rgb(0, 0, 0);">软件认证或管理软件升级；</font>
++ <font style="color:rgb(0, 0, 0);">让您参与有关我们产品和服务的调查。</font>
+
+<font style="color:rgb(0, 0, 0);">对于您个人信息的收集和使用，为改变您授权同意的范围（如，撤回同意或授权），您可以通过liguihong@hongruankeji</font>[<font style="color:rgb(0, 0, 0);">.com</font>](http://kuaishou.com/)<font style="color:rgb(0, 0, 0);">与我们联系。当确认您撤回同意后，我们后续将不再收集和使用您的个人信息，但请您理解，当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的必要的特定功能和/或服务。您撤回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。</font>
+
+## <font style="color:rgb(0, 0, 0);">5. 信息共享</font>
+<font style="color:rgb(0, 0, 0);">目前，我们不会主动共享或转让您的个人信息至第三方，如存在其他共享或转让您的个人信息或您需要我们将您的个人信息共享或转让至第三方情形时，我们会直接或确认第三方征得您对上述行为的明示同意。</font>
+
+<font style="color:rgb(0, 0, 0);">为向您提供完善的产品和服务，在某些情形下，我们需要与我们集团外的第三方公司、组织或个人共享您的个人信息。我们仅会出于合法、正当、最小必要且本政策所明确的目的与第三方分享您的个人信息，并且只会分享必要的个人信息。如果第三方改变或超越您原同意范围处理您的个人信息，我们会要求第三方再次征得您的同意。 对我们与之共享个人信息的公司、组织和个人，我们会要求其严格遵守我们关于数据隐私保护的措施和要求，包括但不限于根据数据保护协议、承诺书及相关数据处理政策进行个人信息的处理，避免识别出个人身份，保障隐私安全。 您可以浏览以下清单详细了解与第三方共享您个人信息的情况，以及接入的第三方软件工具开发包（SDK）的具体信息：  
+</font>**<font style="color:rgb(0, 0, 0);">1. </font>****<font style="color:rgb(0, 0, 0);">友盟组件化基础库</font>**<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：北京锐讯灵通科技有限公司；  
+</font>**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力；  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息及权限</font>**<font style="color:rgb(0, 0, 0);">：获取应用安装列表、设备Mac地址、设备序列号（IMEI、ANDROID ID、IDFA、OPENUDID、GUID、IP地址、SIM卡信息；  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/page/policy](https://www.umeng.com/page/policy)
+
+**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/page/policy](https://www.umeng.com/page/policy)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/](https://www.umeng.com/)
+
+
+
+**<font style="color:rgb(0, 0, 0);">2. </font>****<font style="color:rgb(0, 0, 0);">友盟+移动统计</font>**<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：北京锐讯灵通科技有限公司；  
+</font>**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力；  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息及权限</font>**<font style="color:rgb(0, 0, 0);">：获取应用安装列表、设备Mac地址、设备序列号（IMEI、ANDROID ID、IDFA、OPENUDID、GUID、IP地址、SIM卡信息；  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/page/policy](https://www.umeng.com/page/policy)
+
+**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/page/policy](https://www.umeng.com/page/policy)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.umeng.com/](https://www.umeng.com/)
+
+
+
+**<font style="color:rgb(0, 0, 0);">3.字节跳动穿山甲广告SDK</font>**<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：北京巨量引擎网络技术有限公司及其关联方  
+</font>**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：应用广告服务  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息及权限</font>**<font style="color:rgb(0, 0, 0);">：  
+</font><font style="color:rgb(0, 0, 0);">IMEI、IMSI、设备 MAC 地址、SUPI、SUCI、软件安装列表、位置、联系人、 通话记录、日历、短信、本机电话号码、图片、音视频、设备品牌、型号、操作系统版本信息、设备标识符（如IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA、SN，具体字段因软硬件版本不同而存在差异）、应用加速度传感器（陀螺仪传感器）、运营商信息、设备时区、设备地理位置、网络设备硬件地址（MAC地址）、IP 地址、WLAN接入点（如SSID，BSSID）、蓝牙（Bluetooth）、基站、软件版本号、网络接入方式、类型、状态、网络质量数据、操作、使用、服务日志以显示合适的广告</font>
+
+**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.csjplatform.com/privacy?from=ad.oceanengine.com](https://www.csjplatform.com/privacy?from=ad.oceanengine.com)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.csjplatform.com/privacy?from=ad.oceanengine.com](https://www.csjplatform.com/privacy?from=ad.oceanengine.com)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://www.csjplatform.com/](https://www.csjplatform.com/)
+
+<font style="color:rgb(0, 0, 0);"></font>
+
+**<font style="color:rgb(0, 0, 0);">4. App 支付宝客户端 SD</font>****<font style="color:rgb(0, 0, 0);">K</font>**<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：支付宝（中国）网络技术有限公司；  
+</font>**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：帮助用户在应用内使用支付宝支付  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息</font>**<font style="color:rgb(0, 0, 0);">：  
+</font><font style="color:rgb(0, 0, 0);">Android ID、OAID、SSID、BSSID；系统设置、系统属性、设备型号、设备品牌、操作系统；IP 地址、网络类型、运营商信息、Wi-Fi 状态、Wi-Fi 参数、Wi-Fi 列表  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://opendocs.alipay.com/common/02kiq3](https://opendocs.alipay.com/common/02kiq3)
+
+**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://opendocs.alipay.com/common/02kiq3](https://opendocs.alipay.com/common/02kiq3)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://open.alipay.com/](https://open.alipay.com/)
+
+
+
+**<font style="color:rgb(0, 0, 0);">5. 微信开放平台SDK</font>**  
+**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：深圳市腾讯计算机系统有限公司</font>  
+**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：实现分享与收藏、微信登录和微信支付功能</font>  
+**<font style="color:rgb(0, 0, 0);">个人信息及权限</font>**<font style="color:rgb(0, 0, 0);">：</font>  
+<font style="color:rgb(0, 0, 0);">获取应用安装列表、设备型号、操作系统版本、设备序列号 、电池、信号强度、软件的版本号、浏览器类型、软件的版本号、浏览器类型、 IP 地址、位置信息</font>
+
+**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8](https://support.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/RYiYJkLOrQwu0nb8)  
+**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy#1](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy#1)  
+**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN](https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN)
+
+
+
+**<font style="color:rgb(0, 0, 0);">6.米盟广告SDK (应用)</font>**<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">第三方名称</font>**<font style="color:rgb(0, 0, 0);">：深圳小米信息技术有限公司  
+</font>**<font style="color:rgb(0, 0, 0);">使用目的</font>**<font style="color:rgb(0, 0, 0);">：米盟广告SDK为开发者提供向终端用户展示广告的服务  
+</font>**<font style="color:rgb(0, 0, 0);">个人信息及权限</font>**<font style="color:rgb(0, 0, 0);">：  
+</font><font style="color:rgb(0, 0, 0);">设备标识符：OAID、AndroidID；  
+</font><font style="color:rgb(0, 0, 0);">设备基础信息：设备型号、操作系统、屏幕宽高、屏幕密度、设备地区、存储信息、CPU信息；  
+</font><font style="color:rgb(0, 0, 0);">操作系统信息：Android版本号、系统版本名称、系统版本号、系统语言、SDK版本号；  
+</font><font style="color:rgb(0, 0, 0);">网络信息：IP地址、WiFi状态、运营商信息、网络类型、网络连接状态；  
+</font><font style="color:rgb(0, 0, 0);">应用信息：应用包名、版本号、应用前后台状态、运行中的进程信息；</font>
+
+<font style="color:rgb(0, 0, 0);">诊断信息：崩溃数据、性能数据；  
+</font><font style="color:rgb(0, 0, 0);">广告信息：对广告的展示、点击及转化等交互数据。</font>
+
+**<font style="color:rgb(0, 0, 0);">个人信息处理规则</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1688](https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1688)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">隐私政策</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1688](https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1688)<font style="color:rgb(0, 0, 0);">  
+</font>**<font style="color:rgb(0, 0, 0);">官网地址</font>**<font style="color:rgb(0, 0, 0);">：</font>[https://dev.mi.com/xiaomihyperos/advertisement](https://dev.mi.com/xiaomihyperos/advertisement)
+
+<font style="color:rgb(0, 0, 0);">  
+</font><font style="color:rgb(0, 0, 0);">与第三方共享的主要情形如下：</font>
+
+<font style="color:rgb(0, 0, 0);">我们不会向合作伙伴分享可用于识别您个人身份的信息（例如您的姓名或电子邮件地址），除非您明确授权。</font>
+
+<font style="color:rgb(0, 0, 0);">我们不会对外公开披露所收集的个人信息，如必须公开披露时，我们会向您告知此次公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意。</font>
+
+<font style="color:rgb(0, 0, 0);">随着我们业务的持续发展，我们有可能进行合并、收购、资产转让等交易，我们将告知您相关情形，按照法律法规及不低于本《隐私政策》所要求的标准继续保护或要求新的控制者继续保护您的个人信息。</font>
+
+<font style="color:rgb(0, 0, 0);">另外，根据相关法律法规及国家标准，以下情形中，我们可能会共享、转让、公开披露个人信息无需事先征得您的授权同意：</font>
+
++ <font style="color:rgb(0, 0, 0);">与国家安全、国防安全直接相关的；</font>
++ <font style="color:rgb(0, 0, 0);">与公共安全、公共卫生、重大公共利益直接相关的；</font>
++ <font style="color:rgb(0, 0, 0);">犯罪侦查、起诉、审判和判决执行等直接相关的；</font>
++ <font style="color:rgb(0, 0, 0);">出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；</font>
++ <font style="color:rgb(0, 0, 0);">个人信息主体自行向社会公众公开个人信息的；</font>
++ <font style="color:rgb(0, 0, 0);">从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。</font>
+
+## <font style="color:rgb(0, 0, 0);">6. 您的权利</font>
+<font style="color:rgb(0, 0, 0);">在您使用我们的服务期间，我们可能会视产品具体情况为您提供相应的操作设置，以便您可以查询、删除、更正或撤回您的相关个人信息，您可参考相应的具体指引进行操作。此外，我们还设置了投诉举报渠道，您的意见将会得到及时的处理。如果您无法通过上述途径和方式行使您的个人信息主体权利，您可以通过本《隐私政策》中提供的联系方式提出您的请求，我们会按照法律法规的规定予以反馈。</font>
+
+<font style="color:rgb(0, 0, 0);">当您决定不再使用我们的产品或服务时，可以申请注销账户。注销账户后，除法律法规另有规定外，我们将删除或匿名化处理您的个人信息。</font>当您决定不再使用我们的产品或服务时，可以申请注销账户。注销账户后，除法律法规另有规定外，我们将删除或匿名化处理您的个人信息。
+
+## <font style="color:rgb(0, 0, 0);">7. 账号注销</font>
+<font style="color:rgb(0, 0, 0);">如果您需要注销在宝宝成长录（宝宝成长录）中创建的账号，可以通过以下方式进行：</font>
+
+### 7.1 账号注销方式
+<font style="color:rgb(0, 0, 0);">您可以通过以下任一方式申请账号注销：</font>
+
+1. <font style="color:rgb(0, 0, 0);">应用内注销：登录宝宝成长录App → 进入“设置”页面 → 点击头像 → 进入“账号管理”页面 → 找到“注销账户”选项 → 按照提示完成注销流程</font>
+2. <font style="color:rgb(0, 0, 0);">邮件申请注销</font><font style="color:rgb(0, 0, 0);">：发送邮件至</font><font style="color:rgb(0, 0, 0);"> </font><font style="color:rgb(0, 0, 0);">liguihong@hongruankeji.com</font><font style="color:rgb(0, 0, 0);">，邮件标题注明“申请账号注销”，邮件内容需包含：</font>
+    - <font style="color:rgb(0, 0, 0);">需要注销的账号信息（如注册手机号、邮箱等）</font>
+    - <font style="color:rgb(0, 0, 0);">账号注册时的相关信息（用于身份验证）</font>
+    - <font style="color:rgb(0, 0, 0);">注销原因（可选）</font>
+
+<font style="color:rgb(0, 0, 0);">我们将在收到邮件后的15个工作日内处理您的注销请求</font>
+
+### 7.2 身份验证
+<font style="color:rgb(0, 0, 0);">为保障您的账号安全，在您申请账号注销时，我们需要验证您的身份。可能需要您提供以下信息（仅用于身份验证）：</font>
+
++ <font style="color:rgb(0, 0, 0);">注册时使用的手机号或邮箱</font>
++ <font style="color:rgb(0, 0, 0);">账号内的相关记录信息</font>
++ <font style="color:rgb(0, 0, 0);">其他能证明您是账号持有者的信息</font>
+
+### 7.3 注销后的数据处理
+<font style="color:rgb(0, 0, 0);">账号注销后，我们将根据相关法律法规处理您的个人信息：</font>
+
+1. <font style="color:rgb(0, 0, 0);">删除个人信息</font><font style="color:rgb(0, 0, 0);">：我们将删除或匿名化处理您的账号信息、个人资料等能够直接识别您身份的个人信息</font>
+2. <font style="color:rgb(0, 0, 0);">保留必要信息</font><font style="color:rgb(0, 0, 0);">：根据法律法规规定或监管要求，我们可能需要保留以下信息：</font>
+    - <font style="color:rgb(0, 0, 0);">与交易相关的财务记录（保留期限为法律法规规定的最短期限）</font>
+    - <font style="color:rgb(0, 0, 0);">安全事件相关的日志信息</font>
+    - <font style="color:rgb(0, 0, 0);">履行法定义务所需的其他信息</font>
+3. <font style="color:rgb(0, 0, 0);">第三方数据：对于已共享给第三方的个人信息，我们将按照本隐私政策第5条的约定，要求第三方删除或匿名化处理相关数据</font>
+
+### 7.4 注销的影响
+<font style="color:rgb(0, 0, 0);">请注意，账号注销是不可逆的操作，注销后将：</font>
+
+1. <font style="color:rgb(0, 0, 0);">无法使用该账号登录宝宝成长录</font>
+2. <font style="color:rgb(0, 0, 0);">账号内的所有数据将无法恢复</font>
+3. <font style="color:rgb(0, 0, 0);">与该账号相关的权益和服务将全部终止</font>
+
+### 7.5 注销例外情况
+<font style="color:rgb(0, 0, 0);">在以下情况下，我们可能无法立即处理您的注销申请：</font>
+
+1. <font style="color:rgb(0, 0, 0);">账号存在未完成的交易或争议</font>
+2. <font style="color:rgb(0, 0, 0);">账号涉嫌违法违规行为正在调查中</font>
+3. <font style="color:rgb(0, 0, 0);">法律法规规定的其他情形</font>
+
+<font style="color:rgb(0, 0, 0);">如遇上述情况，我们将及时告知您原因及预计处理时间。</font>
+
+## <font style="color:rgb(0, 0, 0);">8. 变更</font>
+<font style="color:rgb(0, 0, 0);">我们可能适时修订本《隐私政策》的条款。当变更发生时，我们会在版本更新时向您提示新的《隐私政策》，并向您说明生效日期。请您仔细阅读变更后的《隐私政策》内容，</font>**<font style="color:rgb(0, 0, 0);">若您继续使用我们的服务，即表示您同意我们按照更新后的《隐私政策》处理您的个人信息。</font>**
+
+## <font style="color:rgb(0, 0, 0);">9. 未成年人保护</font>
+<font style="color:rgb(0, 0, 0);">我们鼓励父母或监护人指导未满十八岁的未成年人使用我们的服务。我们建议未成年人鼓励他们的父母或监护人阅读本《隐私政策》，并建议未成年人在提交的个人信息之前寻求父母或监护人的同意和指导。</font>
