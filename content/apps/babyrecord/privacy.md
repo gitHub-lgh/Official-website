@@ -48,9 +48,9 @@ Where applicable, the bases for handling support correspondence are responding t
 
 ## 4. Visiting This Policy Website
 
-Opening the privacy policy in the app or in a browser connects to this website over the internet. The website is hosted using **GitHub Pages**. GitHub states that it logs and stores visitors' IP addresses for security purposes, whether or not the visitor is signed into GitHub. This website request does not attach your local baby records or media.
+Opening the privacy policy in the app or in a browser connects to this website over the internet. The website is hosted on **Vercel**. To deliver the page, operate its hosting infrastructure and protect the service, Vercel processes technical request information, which may include your IP address, browser or system information, the requested page and access time. This website request does not attach your local baby records or media.
 
-GitHub handles hosting-related information under its [General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). Its processing locations may differ from your country. Website hosting and email services are separate from the on-device storage of your baby records.
+Hosting-related technical information may be retained for service operation and security in accordance with the applicable hosting terms. For information about Vercel's data handling, see its [Privacy Notice](https://vercel.com/legal/privacy-notice) and [Data Processing Addendum](https://vercel.com/legal/dpa). Hosting and email providers may process information outside your country. These services are separate from the on-device storage of your baby records.
 
 ## 5. Storage, Retention and Deletion
 
